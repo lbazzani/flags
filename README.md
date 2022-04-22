@@ -1,5 +1,7 @@
 # Sovereign state flags
 
+Source https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags 22-04-2022
+
 {
     "Afghanistan": {"file":"Flag_of_Afghanistan.svg.png"},
     "Albania": {"file":"Flag_of_Albania.svg.png"},
